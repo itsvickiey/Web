@@ -1,0 +1,25 @@
+body{
+    background-color:#366f28;
+    align-items: center;
+    font-weight: bolder;
+}
+h1{
+   text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+.about{
+    background-color:black;
+    color:white ;
+
+}
+address{
+   text-align: center;
+}
